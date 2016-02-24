@@ -1,3 +1,12 @@
+.test {
+  display: block;
+}
+
+.navbar {
+  background-color: black;
+}
+
 .navbar-header {
   background-color: black;
+  margin: 30px;
 }
