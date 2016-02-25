@@ -1,9 +1,9 @@
-.click {
-  display: block;
-}
-
 .logo {
   height: 31px;
+}
+
+.main {
+  width: 100%;
 }
 
 .navbar {
