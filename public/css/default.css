@@ -1,3 +1,7 @@
+.click {
+  display: block;
+}
+
 .logo {
   height: 31px;
 }
@@ -8,4 +12,5 @@
 
 .navbuttons {
   font-family: "Helvetica Heue", Helvetica, Arial, sans-serif;
+  text-align: right;
 }
