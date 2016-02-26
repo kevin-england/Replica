@@ -1,5 +1,6 @@
 .logo {
   height: 31px;
+  margin: 30px;
 }
 
 .main {
@@ -11,6 +12,21 @@
 }
 
 .navbuttons {
+  display: inline;
   font-family: "Helvetica Heue", Helvetica, Arial, sans-serif;
-  text-align: right;
+}
+
+.try {
+  background-color: #52C770;
+  border: 1px solid black;
+  border-radius: 10px;
+  color: white;
+  font-size: 18px;
+  padding: 13px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.try:hover {
+  cursor: pointer;
 }
