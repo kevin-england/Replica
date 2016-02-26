@@ -12,15 +12,32 @@
 }
 
 .navbuttons {
-  display: inline;
   font-family: "Helvetica Heue", Helvetica, Arial, sans-serif;
+}
+
+.research {
+  font-family: "Helvetica Heue", Helvetica, Arial, sans-serif;
+  font-size: 38px;
+  margin-top: 150px;
+  opacity: .8;
+  text-align: center;
+}
+
+.research-one {
+  color: grey;
+  font-family: sans-serif;
+  font-size: 28px;
+  font-weight: lighter;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: center;
 }
 
 .try {
   background-color: #52C770;
   border: 1px solid black;
   border-radius: 10px;
-  color: white;
+  color: #ffffff;
   font-size: 18px;
   padding: 13px;
   padding-left: 25px;
