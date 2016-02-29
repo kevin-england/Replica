@@ -23,6 +23,13 @@
   text-align: center;
 }
 
+.research-image {
+  border-radius: 8px;
+  height: 320px;
+  width: 400px;
+  margin: 20px;
+}
+
 .research-one {
   color: grey;
   font-family: sans-serif;
